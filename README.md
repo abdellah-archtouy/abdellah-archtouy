@@ -18,7 +18,7 @@
 
 ## Projects
 
-- [Project 1: Your Awesome React App](https://github.com/abdellah-archtouy/ft_transcendence)
+- [Project 1: Awesome React App](https://github.com/abdellah-archtouy/ft_transcendence)
 - 🏓 ft_transcendence 
     Description:
     Real-time multiplayer Pong game featuring matchmaking, live chat, achievements, and tournament modes.
@@ -35,3 +35,4 @@
 
 - [LinkedIn](www.linkedin.com/in/abdellaharchrouy/)
 - Email: abdoarchtouy@gmail.com
+- [Badge](https://badge.mediaplus.ma/binary/aarchtou)
