@@ -35,4 +35,4 @@
 
 - [LinkedIn](www.linkedin.com/in/abdellaharchrouy/)
 - Email: abdoarchtouy@gmail.com
-- [Badge](https://badge.mediaplus.ma/binary/aarchtou)
+- ![Badge](https://badge.mediaplus.ma/binary/aarchtou)
